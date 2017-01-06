@@ -9,6 +9,9 @@ git \
 vim \
 zsh
 
+# Change the current shell to ZSH
+sudo chsh -s /usr/bin/zsh
+
 # Installation of RCM for dotfile management
 wget --quiet https://thoughtbot.github.io/rcm/debs/rcm_1.3.0-1_all.deb
 checksum=$(sha256sum rcm_1.3.0-1_all.deb | cut -f1 -d' ')
