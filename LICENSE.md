@@ -1,6 +1,6 @@
 # License
 
-Copyright © 2017 [Daniel Morris](https://github.com/unfunco)
+Copyright © 2017 [Sabrina Munshi](https://github.com/TheSentinel61)
 
 ## ISC License
 
